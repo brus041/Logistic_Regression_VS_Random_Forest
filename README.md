@@ -1,4 +1,8 @@
 # Supervised_ML_Challenge
+This project involved using a 2019 loan data set as the training set in order to apply a classifier on a 2020 loan data set. Logistic regression was put up against a random forest classifier after preprocessing the original data. 
+
+The results of the code are found below!
+
 Unscaled Logistic Regression: \
 Best Scores during parameter tuning gave .704 for training and .58 for testing data. \
 \
